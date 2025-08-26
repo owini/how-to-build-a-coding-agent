@@ -1,4 +1,4 @@
-# How to Build a Coding Agent - Workshop
+# How to Build a Coding Agent Workshop
 
 A hands-on workshop for learning how to build AI agents with progressively increasing capabilities. This repository contains six different agent implementations that demonstrate the evolution from a simple chat interface to a fully capable agent with file system access, code search, and tool execution.
 
